@@ -38,3 +38,12 @@ trojan://slch2024@104.18.2.108:8443?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.29.205%3A443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.102:5600#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A5600
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#9%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#US%F0%9F%87%BA%F0%9F%87%B8%2B%7C%2Bseries-a2-mec.varzesh360.co-443%2B%7C%2B313.93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%28GB%29%20%C2%BB%20Amazon%20Data%20Services%20UK%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB%F0%9F%87%AC%F0%9F%87%A7%2B%7C%2Bseries-a2.samanehha.co-443%2B%7C%2B205.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%28GB%29%20%C2%BB%20Amazon%20Data%20Services%20UK%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%28AE%29%20%C2%BB%20Amazon%20Technologies%20Inc%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%28AE%29%20%C2%BB%20Amazon%20Technologies%20Inc%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%AD%20Bahrain%20%28BH%29%20%C2%BB%20Amazon%20Data%20Services%20Bahrain%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%28GB%29%20%C2%BB%20Amazon%20Data%20Services%20UK%20%C2%BB%20%40Geek_Spot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US%F0%9F%87%BA%F0%9F%87%B8%2B%7C%2Bapi.namasha.co-443%2B%7C%2B316.16ms
