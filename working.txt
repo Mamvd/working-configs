@@ -1,6 +1,6 @@
-vless://1110a364-4c94-42b7-84d9-085a34eabee4@87.120.187.17:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=mfBIs4jfBLzL_gqBO0QmbzwhSqamg2heEb_uNpGu3Rc&sid=ffb82d9a35846463&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM2UxZjRmNmUzNjlkNjcz@135.125.219.2:42681#%F0%9F%87%A9%F0%9F%87%AA
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F--%40V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha#%F0%9F%87%B9%F0%9F%87%B7
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&type=ws&host=sni.111000.dynv6.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&sni=apple.com&fp=chrome&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&sid=aabbccdd&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?security=tls&sni=blueivy.qzz.io&type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602#working
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
